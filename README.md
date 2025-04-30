@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/02df9dfc-1acd-41ed-949c-ee41859d2e67)
 ```
 # Simple Website Crawler
 
